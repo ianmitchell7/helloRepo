@@ -13,7 +13,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file leaf-file-name="hello1.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/hello1.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -37,8 +37,13 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
+<<<<<<< HEAD
     <option name="width" value="1108" />
     <option name="height" value="836" />
+=======
+    <option name="width" value="921" />
+    <option name="height" value="877" />
+>>>>>>> c81da13bd8f8026647c4adc98b497e8a25f218b8
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -52,6 +57,11 @@
             <path>
               <item name="helloRepo" type="b2602c69:ProjectViewProjectNode" />
               <item name="helloRepo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="helloRepo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="helloRepo" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -134,7 +144,11 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
+<<<<<<< HEAD
     <frame x="0" y="23" width="1108" height="836" extended-state="0" />
+=======
+    <frame x="0" y="23" width="921" height="877" extended-state="0" />
+>>>>>>> c81da13bd8f8026647c4adc98b497e8a25f218b8
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -145,11 +159,19 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Run" order="2" />
+<<<<<<< HEAD
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15009381" />
+=======
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info id="Capture Tool" />
+      <window_info id="Designer" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2320819" />
+>>>>>>> c81da13bd8f8026647c4adc98b497e8a25f218b8
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
@@ -168,6 +190,16 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+<<<<<<< HEAD
+=======
+    <entry file="file://$PROJECT_DIR$/goodbye1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+>>>>>>> c81da13bd8f8026647c4adc98b497e8a25f218b8
     <entry file="file://$PROJECT_DIR$/hello1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
