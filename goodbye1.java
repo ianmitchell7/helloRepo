@@ -7,4 +7,4 @@ public class Goodbye1 {
 
 
 
-####  Heading towards London -----
+####  Heading towards Amsterdam -----
